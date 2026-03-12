@@ -319,7 +319,7 @@ footer a:visited {
 }
 
 .extra2 {
-	background: url(water_edge.jpg) repeat-x;
+	background: url(oceanbckgrnd.jpg) repeat-x;
 	top: 104px;
 	right: 0px;
 	width: 100%;
@@ -346,8 +346,8 @@ footer a:visited {
 }
 
 .extra4 {
-	background: url(sunlight.jpg) no-repeat;
-	z-index: 3;
+	background: url(giphy.gif) no-repeat;
+	z-index: 5;
 	top: 0px;
 	left: 0px;
 	width: 600px;
